@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class LockClass implements ActionListener {
-    private JFrame frame;
+    private JFrame frame;//kkkkk
     private JPanel p1, p2;
     private JButton b1, b2, b3, b4, b5, b6, b7, b8, b9, bClear, bEnter;
     private JLabel jStatus;
